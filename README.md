@@ -1,0 +1,2 @@
+# functionsHandson
+AzureFunctions入門
